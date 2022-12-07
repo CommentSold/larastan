@@ -57,7 +57,8 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "dev-master": "1.0-dev",
+            "0.6.2": "1.0-dev"
         },
         "phpstan": {
             "includes": [
